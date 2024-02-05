@@ -1,0 +1,8 @@
+{
+  "name": "air",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "libs/air/src",
+  "projectType": "library",
+  "tags": [],
+  "targets": {}
+}
