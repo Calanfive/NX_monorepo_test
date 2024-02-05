@@ -61,6 +61,7 @@
     "jest-react-native": "18.0.0",
     "jsdom": "~22.1.0",
     "nx": "18.0.1",
+    "nx-electron": "^17.0.1",
     "prettier": "^2.6.2",
     "react-native-svg": "14.1.0",
     "react-native-svg-transformer": "1.2.0",
